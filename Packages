@@ -1,28 +1,15 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: me.kritanta.gravitation
+Version: 0.1.0
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
-
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
+Maintainer: Kritanta
+Installed-Size: 7352
+Depends: mobilesubstrate
+Filename: ./debs/me.kritanta.gravitation_0.1.0_iphoneos-arm.deb
+Size: 144328
+MD5sum: dc242e285cdfe9460e58301fa4963cbb
+SHA1: bb4e34e9b104edc9ac30b37f8632c630c039ac82
+SHA256: 30c83838700def2f517a9d4334f9dff98ddb2429111a057aea9b30c2ec385b8f
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
-
+Description: Shake your phone to unhinge your icons!
+Author: Kritanta
+Name: Gravitation
