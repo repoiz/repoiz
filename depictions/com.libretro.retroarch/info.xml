@@ -1,0 +1,33 @@
+<package>
+	<id>com.libretro.retroarch</id>
+	<name>RetroArch</name>
+	<version>1.8.8</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>Cross-platform frontend for emulators</shortDescription>
+	<descriptionlist>
+		<description>Cross-platform frontend for emulators</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Using</description>
+			<image>IMG_1691.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Latest stable release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>GitHub Source</name>
+			<url>https://github.com/libretro/RetroArch</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</links>
+</package>

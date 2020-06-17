@@ -1,25 +1,23 @@
 <package>
-	<id>me.kritanta.gravitation</id>
-	<name>Gravitation</name>
-	<version>0.1.0</version>
+	<id>net.namedfork.minivmac</id>
+	<name>Mini vMac</name>
+	<version>2.3.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>12</miniOS>
+			<miniOS>7</miniOS>
 			<otherVersions>unconfirmed</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Infamous Gravitation tweak</shortDescription>
+	<shortDescription>Macintosh Emulator</shortDescription>
 	<descriptionlist>
-		<description>Remake of Gravitation</description>
-		<description>Built from Kritanta's source</description>
+		<description>Macintosh Emulator</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Activated</description>
-			<image>cool.jpg</image>
+			<description>Using</description>
+			<image>IMG_1689.png</image>
 		</screenshot>
 	</screenshots>
 	<changelog>
@@ -28,12 +26,12 @@
 	<links>
 		<link>
 			<name>GitHub Source</name>
-			<url>https://github.com/KritantaDev/Gravitation</url>
+			<url>https://github.com/zydeco/minivmac4ios</url>
 			<iconclass>fa fa-github</iconclass>
 		</link>
 		<link>
 			<name>Developer's Twitter</name>
-			<url>https://twitter.com/_kritanta</url>
+			<url>https://twitter.com/maczydeco</url>
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
 	</links>
