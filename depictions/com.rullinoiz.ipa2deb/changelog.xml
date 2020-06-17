@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0.1</version>
+		<change>Fix a reading error when building package</change>
+	</changes>
+	<changes>
 		<version>1.0.0</version>
 		<change>Initial Release</change>
 	</changes>
