@@ -1,0 +1,34 @@
+<package>
+	<id>com.rullinoiz.shorpen</id>
+	<name>shorpen</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>Open shortcuts in the command line</shortDescription>
+	<descriptionlist>
+		<description>Open shortcuts in the command line</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>GitHub Source</name>
+			<url>https://github.com/rullinoiz/shorpen</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+		<link>
+			<name>Developer's Twitter</name>
+			<url>https://twitter.com/rullinoiz</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+	</links>
+</package>
