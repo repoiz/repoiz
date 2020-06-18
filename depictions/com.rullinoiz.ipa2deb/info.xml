@@ -1,7 +1,7 @@
 <package>
 	<id>com.rullinoiz.ipa2deb</id>
 	<name>ipa2deb</name>
-	<version>1.0.2</version>
+	<version>1.0.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>6</miniOS>
@@ -14,16 +14,19 @@
 	<descriptionlist>
 		<description>Convert IPA to DEB in the command line!</description>
 		<description>
-			Usage: ipa2deb /path/to/ipa /path/to/controlfile (optional)
-			More information on GitHub repository
+			Information such as a written and video tutorial is on my GitHub page VVV
 		</description>
 	</descriptionlist>
 	<screenshots>
+		<screenshot>
+			<description>Using</description>
+			<image>IMG_1692.png</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Fix 404 error on depiction</change>
-		<change>Fix reading error when building package</change>
-		<change>Initial Release</change>
+		<change>Remove .DS_Store to stop some writing issues</change>
+		<change>Added some art when starting</change>
+		<change>Stability improvements</change>
 	</changelog>
 	<links>
 		<link>
