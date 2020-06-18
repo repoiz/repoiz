@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0.1</shorpen>
+		<change>Hopefully fix .DS_Store conflicts and not parsing shortcuts with spaces</change>
+	</changes>
+	<changes>
 		<version>1.0.0</version>
 		<change>Initial Release</change>
 	</changes>

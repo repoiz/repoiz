@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>1.0.4</version>
+		<version>1.0.5</version>
 		<change>Remove .DS_Store to stop some writing issues</change>
 		<change>Added some art when starting</change>
 		<change>Stability improvements</change>

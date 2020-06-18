@@ -1,10 +1,10 @@
 <package>
 	<id>com.rullinoiz.shorpen</id>
 	<name>shorpen</name>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7</miniOS>
+			<miniOS>12</miniOS>
 			<otherVersions>unconfirmed</otherVersions>
 		</firmware>
 	</compatibility>
@@ -17,7 +17,8 @@
 	<screenshots>
 	</screenshots>
 	<changelog>
-		<change>Initial Release</change>
+		<change>Hopefully fix .DS_Store conflicts</change>
+		<change>Fixed shortcuts with spaces in them not being parsed</change>
 	</changelog>
 	<links>
 		<link>

@@ -1,7 +1,7 @@
 <package>
 	<id>com.rullinoiz.ipa2deb</id>
 	<name>ipa2deb</name>
-	<version>1.0.4</version>
+	<version>1.0.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>6</miniOS>
