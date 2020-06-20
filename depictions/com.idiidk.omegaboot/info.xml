@@ -1,0 +1,32 @@
+<package>
+	<id>com.idiidk.omegaboot</id>
+	<name>OmegaBoot</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>Kahoot bot for iOS</shortDescription>
+	<descriptionlist>
+		<description>Kahoot bot for iOS</description>
+		<description>
+			Uploaded with developer's permission. Please contact him if you have any problems/questions.
+		</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>GitHub Source</name>
+			<url>https://github.com/idiidk/kahoot-tools</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</links>
+</package>
