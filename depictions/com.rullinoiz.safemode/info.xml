@@ -1,0 +1,29 @@
+<package>
+	<id>com.rullinoiz.safemode</id>
+	<name>shorpen</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>Invoke safemode from the terminal</shortDescription>
+	<descriptionlist>
+		<description>Invoke safemode from the terminal</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Developer's Twitter</name>
+			<url>https://twitter.com/rullinoiz</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+	</links>
+</package>
